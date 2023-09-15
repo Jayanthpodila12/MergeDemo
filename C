@@ -1,7 +1,17 @@
 Hi this is Jay
 This is Demo
+<<<<<<< HEAD
 nckhjjhfakd
 a;akfabfaf
 anfkjabfkabf
 safanfaf
+=======
+jbljbflkjbaf
+aflkafbaf
+abf;abfa
+abfabf
+sabfabfa
+fabf'asf
+asfnaf'asf
+>>>>>>> 3a7268502ddad75ff95ad1ea8d1749c37fbe999d
 
